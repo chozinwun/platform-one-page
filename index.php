@@ -12,15 +12,21 @@
 				<li><a href="#auditions">Auditions</a></li>
 				<li><a href="#schedule">Schedule</a></li>
 				<li><a href="#rules">FAQs</a></li>
+				<li><a href="#sponsors">Sponsors</a></li>
 			</ul>
 		</section>
 		<section class="intro">
 			<div class="slide">
 				<img src="assets/img/the-platform-logo.png" height="350px" />
+				<p class="callout">$2000+ in Prizes. One Stage.</p>
 			</div>
 			<div class="countdown">
 				<span class="message">Online Auditions begin in</span>
 				<ul class="timer">
+					<li>
+						<span class="days time">0</span>
+						<span>Days</span>
+					</li>
 					<li>
 						<span class="hours time">0</span>
 						<span>Hours</span>
@@ -39,12 +45,13 @@
 		<section id="theplatform">
 			<div class="container">
 				<h2>What is The Platform?</h2>
+				<iframe width="420" height="315" src="//www.youtube.com/embed/7RtDn-PABxw?rel=0" frameborder="0" allowfullscreen></iframe>
 				<p>Next section</p>
 			</div>
 		</section>
 		<section id="auditions">
 			<div class="container">
-				<h2>Auditions</h2>
+				<h2 class="orangered">Auditions</h2>
 				<p>Next section</p>
 			</div>
 		</section>
@@ -65,5 +72,8 @@
 				<p>&copy; 2013 The Summit College Ministry. All Rights Reserved.</p>
 			</div>
 		</section>
+
+		<script type="text/javascript" src="assets/js/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="assets/js/platform.js"></script>
 	</body>
 </html>

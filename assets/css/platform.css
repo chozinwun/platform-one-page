@@ -13,6 +13,16 @@
 	-moz-box-sizing: border-box;
 	font-weight: 200; }
 
+::selection {
+	background: #FF4500;
+	color: white; }
+
+::-moz-selection {
+	background: #FF4500; }
+
+::-webkit-selection {
+	background: #FF4500; }
+
 html, body {
 	height: 100%; }
 
@@ -29,25 +39,40 @@ body {
 a {
 	text-decoration: none; }
 
+h1, h2 {
+	margin-bottom: 60px; }
+
+h2 {
+	color: #777; }
+
+h2.orangered {
+	background: #FF4500;
+	padding: 3px 7px;
+	color: white;
+	display: inline-block;
+}
+
 section {
 	background: white;
 	display: block;
 	width: 100%;
 	min-height: 50px;
 	font-family: Helvetica Neue, Arial, Sans Serif;
-	padding: 90px 0; }
+	padding: 50px 0; }
 
 section .container {
 	width: 800px;
 	margin: 0 auto; }
+
+section .container p {
+	font-size: 18px; }
 
 section .container h2 {
 	text-align: center;
 	font-size: 36px;
 	font-weight: bold;
 	font-family: 'Conv_nevis';
-	text-transform: uppercase;
-	color: #777; }
+	text-transform: uppercase; }
 
 .slide {
 	text-align: center;
@@ -63,11 +88,12 @@ section.header {
 	position: fixed;
 	top: 0;
 	z-index: 10;
-	border-top: 10px solid white; }
+	border-top: 10px solid #ddd; }
 
 h1.logo {
 	max-width: 200px;
-	float: left; }
+	float: left;
+	margin: 0; }
 
 h1.logo img {
 	max-height: 70px;
@@ -96,6 +122,13 @@ section.intro {
 	background: transparent;
 	height: 100%;
 	padding: 30px 0; }
+
+.callout {
+	color: white;
+	font-size: 52px;
+	margin: 30px 0;
+	font-weight: bolder;
+}
 
 .countdown {
 	bottom: 0;
@@ -134,6 +167,7 @@ section.intro {
 	width: 100%;
 	display: block; }
 
+/** body **/
 #theplatform, #schedule {
 	min-height: 450px;
 }
