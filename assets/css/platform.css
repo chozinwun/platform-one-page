@@ -5,6 +5,18 @@
 	font-weight: normal;
 	font-style: normal; }
 
+@font-face {
+	font-family: 'Source Sans';
+	src: url('../fonts/source-sans-pro/SourceSansPro-Regular.otf');
+	font-weight: normal;
+	font-style: normal; }
+
+@font-face {
+	font-family: 'Source Sans Bold';
+	src: url('../fonts/source-sans-pro/SourceSansPro-Bold.otf');
+	font-weight: bold;
+	font-style: normal; }
+
 * {
 	margin: 0;
 	padding: 0;
@@ -45,6 +57,14 @@ h1, h2 {
 h2 {
 	color: #777; }
 
+h3 { 
+	font-family: 'Source Sans Bold', sans serif;
+	font-size: 32px;
+	letter-spacing: -2px; }
+
+h3.center {
+	text-align: center; }
+
 h2.orangered {
 	background: #FF4500;
 	padding: 3px 7px;
@@ -62,7 +82,8 @@ section {
 
 section .container {
 	width: 900px;
-	margin: 0 auto; }
+	margin: 0 auto;
+	font-family: 'Source Sans'; }
 
 section .container:after {
 	content: ".";

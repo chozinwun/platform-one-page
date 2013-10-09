@@ -57,15 +57,8 @@
 				</div>
 			</div>
 			<div class="container">
-				<h3>Talent Ideas</h3>
-				<ul>
-					<li>Singing</li>
-					<li>Poetry</li>
-					<li>Dancing</li>
-					<li>Running Really Fast</li>
-					<li>Cutting hair</li>
-					<li>Playing the spoons</li>
-				</ul>
+				<h3 class="center">Be Creative</p>
+				<p class="callout">This is not a singing competition, all talents are welcome</p>
 			</div>
 		</section>
 		<section id="auditions">
