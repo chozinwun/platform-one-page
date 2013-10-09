@@ -45,8 +45,27 @@
 		<section id="theplatform">
 			<div class="container">
 				<h2>What is The Platform?</h2>
-				<iframe width="420" height="315" src="//www.youtube.com/embed/7RtDn-PABxw?rel=0" frameborder="0" allowfullscreen></iframe>
-				<p>Next section</p>
+				<div class="left">
+					<iframe width="420" height="315" src="//www.youtube.com/embed/7RtDn-PABxw?rel=0" frameborder="0" allowfullscreen></iframe>
+				</div>
+				<div class="right">
+					<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
+					<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
+					<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
+
+					<p>Auditions begin October 28th, 2013.</p>
+				</div>
+			</div>
+			<div class="container">
+				<h3>Talent Ideas</h3>
+				<ul>
+					<li>Singing</li>
+					<li>Poetry</li>
+					<li>Dancing</li>
+					<li>Running Really Fast</li>
+					<li>Cutting hair</li>
+					<li>Playing the spoons</li>
+				</ul>
 			</div>
 		</section>
 		<section id="auditions">

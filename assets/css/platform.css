@@ -61,11 +61,31 @@ section {
 	padding: 50px 0; }
 
 section .container {
-	width: 800px;
+	width: 900px;
 	margin: 0 auto; }
 
+section .container:after {
+	content: ".";
+	display: block;
+	height: 0px;
+	clear: both;
+	visibility: hidden; }
+
 section .container p {
-	font-size: 18px; }
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 25px;
+	margin-bottom: 16px;
+	text-align: justify;
+	color: #444; }
+
+section .container div.left {
+	float: left; }
+
+section .container div.right {
+	float: right;
+	float: right;
+	width: 45%; }
 
 section .container h2 {
 	text-align: center;
@@ -115,6 +135,9 @@ h1.logo img {
 	cursor: pointer;
 	color: white;
 	font-size: 16px; }
+
+.nav li a:hover {
+	background: orangered; }
 
 
 /** Intro **/
