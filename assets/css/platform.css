@@ -262,3 +262,25 @@ section.intro {
 	padding: 20px 0;
 	background: #19A8E0;
 	color: white; }
+
+@media (max-width: 480px) {
+
+	.nav {
+		display: none; }
+
+	h2 {
+		text-align: left; }
+
+	section .container {
+		width: 100%;
+		padding: 0 15px; }
+
+	section .container .cols { 
+		display: block; }
+
+	section .container p {
+		text-align: left; }
+
+	iframe {
+		width: 100%; }
+}
