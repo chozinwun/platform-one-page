@@ -49,10 +49,11 @@ body {
 	background-size: cover; }
 
 a {
-	text-decoration: none; }
+	text-decoration: none;
+	color: orangered; }
 
 h1, h2 {
-	margin-bottom: 60px; }
+	margin-bottom: 30px; }
 
 h2 {
 	color: #777; }
@@ -67,23 +68,56 @@ h3.center {
 
 h2.orangered {
 	background: #FF4500;
-	padding: 3px 7px;
+	padding: 10px;
 	color: white;
-	display: inline-block;
-}
+	display: inline-block; }
+
+h2.lightblue {
+	background: #19A8E0;
+	padding: 10px;
+	color: white;
+	display: inline-block; }
+
+h2 small {
+	background: white;
+	color: orangered;
+	padding: 7px;
+	font-size: 16px; }
 
 section {
-	background: white;
+	background: transparent;
 	display: block;
 	width: 100%;
 	min-height: 50px;
-	font-family: Helvetica Neue, Arial, Sans Serif;
-	padding: 50px 0; }
+	padding: 120px 0 50px;
+	color: white;
+	font-family: 'Source Sans', sans serif; }
+
+section.white {
+	background: white;
+	color: #444; }
 
 section .container {
 	width: 900px;
-	margin: 0 auto;
-	font-family: 'Source Sans'; }
+	margin: 0 auto; }
+
+section .container .cols {
+	display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
+	display: -moz-box;      /* OLD: Firefox (buggy) */ 
+	display: -ms-flexbox;   /* MID: IE 10 */
+	display: -webkit-flex;  /* NEW, Chrome 21+ */
+	display: flex; }
+
+section .container .col {
+	-webkit-box-flex: 1;      /* OLD - iOS 6-, Safari 3.1-6 */
+	-moz-box-flex: 1;         /* OLD - Firefox 19- */
+	-webkit-flex: 1;          /* Chrome */
+	-ms-flex: 1;
+	flex: 1;
+	display: block; }
+
+section .container .col:first-child {
+	margin-right: 50px; }
 
 section .container:after {
 	content: ".";
@@ -97,8 +131,7 @@ section .container p {
 	font-size: 18px;
 	line-height: 25px;
 	margin-bottom: 16px;
-	text-align: justify;
-	color: #444; }
+	text-align: justify; }
 
 section .container div.left {
 	float: left; }
@@ -120,16 +153,18 @@ section .container h2 {
 	display: block;
 	width: 100%; }
 
+.center {
+	text-align: center; }
+
 /** Header **/
 section.header {
-	background: transparent;
+	background: url(../img/dark-shadow.png);
 	height: 100px;
 	color: white; 
 	padding: 0 20px;
 	position: fixed;
 	top: 0;
-	z-index: 10;
-	border-top: 10px solid #ddd; }
+	z-index: 10; }
 
 h1.logo {
 	max-width: 200px;
@@ -171,8 +206,7 @@ section.intro {
 	color: white;
 	font-size: 52px;
 	margin: 30px 0;
-	font-weight: bolder;
-}
+	font-weight: bolder; }
 
 .countdown {
 	bottom: 0;
@@ -212,15 +246,19 @@ section.intro {
 	display: block; }
 
 /** body **/
-#theplatform, #schedule {
-	min-height: 450px;
-}
+#scholarships {
+	background: url(../img/darker-shadow.png);
+	color: yellow;
+	border-top: 1px solid yellow;
+	border-bottom: 1px solid yellow; }
+
+#scholarships h2 {
+	color: yellow; }
 
 #auditions, #faqs {
-	background: transparent;
-	height: 400px;
-}
+	background: url(../img/darker-shadow.png); }
 
 #footer {
+	padding: 20px 0;
 	background: #19A8E0;
 	color: white; }

@@ -10,9 +10,9 @@
 				<li><a href="">Home</a></li>
 				<li><a href="#theplatform">The Platform</a></li>
 				<li><a href="#auditions">Auditions</a></li>
-				<li><a href="#schedule">Schedule</a></li>
-				<li><a href="#rules">FAQs</a></li>
-				<li><a href="#sponsors">Sponsors</a></li>
+				<li><a href="#scholarships">Scholarships</a></li>
+				<li><a href="#faqs">FAQs</a></li>
+				<!--<li><a href="#sponsors">Sponsors</a></li>-->
 			</ul>
 		</section>
 		<section class="intro">
@@ -42,41 +42,58 @@
 				</ul>
 			</div>
 		</section>
-		<section id="theplatform">
+		<section id="theplatform" class="white">
 			<div class="container">
 				<h2>What is The Platform?</h2>
-				<div class="left">
-					<iframe width="420" height="315" src="//www.youtube.com/embed/7RtDn-PABxw?rel=0" frameborder="0" allowfullscreen></iframe>
+				<div class="cols">
+					<div class="col">
+						<iframe width="420" height="315" src="//www.youtube.com/embed/7RtDn-PABxw?rel=0" frameborder="0" allowfullscreen></iframe>
+					</div>
+					<div class="col">
+						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
+						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
+						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
+						<p>Online auditions begin October 27th, 2013.</p>
+					</div>
 				</div>
-				<div class="right">
-					<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
-					<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
-					<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
-
-					<p>Auditions begin October 28th, 2013.</p>
-				</div>
-			</div>
-			<div class="container">
-				<h3 class="center">Be Creative</p>
-				<p class="callout">This is not a singing competition, all talents are welcome</p>
 			</div>
 		</section>
 		<section id="auditions">
 			<div class="container">
-				<h2 class="orangered">Auditions</h2>
-				<p>Next section</p>
+				<h2 class="orangered">Auditions <small>Be creative</small></h2>
+				<div class="cols">
+					<div class="col">
+						<h3>1. Online</h3>
+						<p>Sunday Oct. 27th at midnight - Friday Nov. 1st at midnight, upload your 60 second YouTube video.</p>
+						<p class="disclaimer">Registration Required at time of submission.</p>
+					</div>
+					<div class="col">
+						<h3>2. In Person</h3>
+						<p>Saturday November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
+						<p class="disclaimer">Registration Required. Must be completed by Thursday November 14th.</p>
+					</div>
+				</div>
 			</div>
 		</section>
-		<section id="schedule">
+		<section id="scholarships" class="white">
 			<div class="container">
-				<h2>Schedule</h2>
-				<p>Next section</p>
+				<h2>Scholarships</h2>
+				<p>A portion of the proceeds from The Platform will go towards scholarships for NC students that are currently enrolled in college. Application for scholarship will be available on October 27th at midnight.</p>
 			</div>
 		</section>
 		<section id="faqs">
 			<div class="container">
-				<h2>FAQs</h2>
-				<p>Next section</p>
+				<div class="cols">
+					<div class="col">
+						<h2 class="lightblue">FAQs</h2>
+						<p>Q: Can I register the day of the audition in person?<br />A: No. Registration for in person auditions must be completed by Thursday November 14th.</p>
+						<p>Q: Can I upload more that one video for online audtions?<br />A: No. Only one video per particpant will be acceppted.</p>
+						<p>Q: Are group auditions allowed?<br />A: Yes. Groups may have no more than 6 participants.</p>
+						<p>Q: Is there an age requirement for auditioning?<br />A: No. Participants ages 17 and younger must be accompanied by a parent/legal guardian.<p>
+						<p>Q: Is there a GPA requirement to win a scholarship?<br />A: No.</p>
+						<p>Q: How can I contact The Summit for more information?<br />A: Feel free to e-mail us at <a href="mailto:thesummit@newjc.org">thesummit@newjc.org</a>.</p>
+					</col>
+				</div>
 			</div>
 		</section>
 		<section id="footer">
