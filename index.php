@@ -88,7 +88,7 @@
 					<div class="col">
 						<h2 class="lightblue">FAQs</h2>
 						<p>Q: Can I register the day of the audition in person?<br />A: No. Registration for in person auditions must be completed by Thursday November 14th.</p>
-						<p>Q: Can I upload more that one video for online audtions?<br />A: No. Only one video per particpant will be acceppted.</p>
+						<p>Q: Can I upload more that one video for online auditions?<br />A: No. Only one video per particpant will be acceppted.</p>
 						<p>Q: Are group auditions allowed?<br />A: Yes. Groups may have no more than 6 participants.</p>
 						<p>Q: Is there an age requirement for auditioning?<br />A: No. Participants ages 17 and younger must be accompanied by a parent/legal guardian.<p>
 						<p>Q: Is there a GPA requirement to win a scholarship?<br />A: No.</p>
