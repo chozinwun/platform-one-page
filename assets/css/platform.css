@@ -101,8 +101,9 @@ section.white {
 	color: #444; }
 
 section .container {
-	width: 900px;
-	margin: 0 auto; }
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 15px; }
 
 section .container .cols {
 	display: -webkit-box;   /* OLD: Safari,  iOS, Android browser, older WebKit browsers.  */
