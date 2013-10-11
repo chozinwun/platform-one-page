@@ -326,6 +326,9 @@ section.intro {
 	section .container .col:last-child {
 		margin-bottom: 0; }
 
+	section .container h2 {
+		font-size: 26px; }
+
 	section .container p {
 		text-align: left; }
 
