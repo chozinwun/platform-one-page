@@ -2,11 +2,13 @@
 <html lang="en">
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-		<link rel="stylesheet" type="text/css" href="assets/css/platform.css" />
+		<link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_url'); ?>/assets/css/platform.css" />
+
+		<?php wp_head(); ?>
 	</head>
 	<body>
 		<section class="header">
-			<h1 class="logo"><img src="assets/img/summit-web-horiz-white.png"></h1>
+			<h1 class="logo"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></h1>
 			<ul class="nav">
 				<li><a href="">Home</a></li>
 				<li><a href="#theplatform">The Platform</a></li>
@@ -28,7 +30,7 @@
 		</section>
 		<section class="intro">
 			<div class="slide">
-				<img src="assets/img/the-platform-logo.png" height="250px" />
+				<img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" height="250px" />
 				<p class="callout">$2000+ in Prizes. One Stage.</p>
 			</div>
 			<div class="countdown">
@@ -113,7 +115,7 @@
 			</div>
 		</section>
 
-		<script type="text/javascript" src="assets/js/jquery-1.10.2.min.js"></script>
-		<script type="text/javascript" src="assets/js/platform.js"></script>
+		<script type="text/javascript" src="<?php echo get_bloginfo('template_url'); ?>/assets/js/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="<?php echo get_bloginfo('template_url'); ?>/assets/js/platform.js"></script>
 	</body>
 </html>
