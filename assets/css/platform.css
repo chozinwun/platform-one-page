@@ -181,24 +181,27 @@ h1.logo img {
 	max-height: 70px;
 	margin-top: 15px; }
 
-.nav {
+.mobile-nav, .mobile-nav .menu {
+	display: none; }
+
+.nav, .mobile-nav {
 	font-family: 'Conv_nevis';
 	margin-top: 33px;
 	list-style: none;
 	float: right;
 	text-transform: uppercase; }
 
-.nav li {
+.nav li, .mobile-nav li {
 	display: inline-block; }
 
-.nav li a {
+.nav li a, .mobile-nav li a {
 	padding: 10px;
 	display: block;
 	cursor: pointer;
 	color: white;
 	font-size: 16px; }
 
-.nav li a:hover {
+.nav li a:hover, .mobile-nav li a:hover {
 	background: orangered; }
 
 
@@ -276,10 +279,27 @@ section.intro {
 	background: #19A8E0;
 	color: white; }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
 
 	.nav {
 		display: none; }
+
+	.mobile-nav {
+		margin-top: 17px;
+		display: block; }
+
+	.mobile-nav .menu {
+		position: absolute;
+		width: 100%;
+		left: 0;
+		top: 70px;
+		background: #333; }
+
+	.mobile-nav .menu li {
+		display: block; }
+
+	h1.logo img {
+		width: 150px; }
 
 	h2 {
 		text-align: left; }
@@ -309,6 +329,9 @@ section.intro {
 
 	.callout {
 		font-size: 28px; }
+
+	section.header {
+		height: 70px; }
 
 	section .container {
 		width: 100%;

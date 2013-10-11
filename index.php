@@ -15,6 +15,16 @@
 				<li><a href="#faqs">FAQs</a></li>
 				<!--<li><a href="#sponsors">Sponsors</a></li>-->
 			</ul>
+			<ul class="mobile-nav">
+				<li><a class="show-mobile-menu">Menu</a></li>
+				<ul class="menu">
+					<li><a href="">Home</a></li>
+					<li><a href="#theplatform">The Platform</a></li>
+					<li><a href="#auditions">Auditions</a></li>
+					<li><a href="#scholarships">Scholarships</a></li>
+					<li><a href="#faqs">FAQs</a></li>
+				</ul>
+			</ul>
 		</section>
 		<section class="intro">
 			<div class="slide">

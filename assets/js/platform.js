@@ -1,5 +1,11 @@
 (function($){
 
+	$('.show-mobile-menu').on( 'click', function(e){
+		
+		if ( $('.mobile-nav .menu').is(':visible') == false ) $('.mobile-nav .menu').show();
+		else $('.mobile-nav .menu').hide();
+	});
+
 	// Countdown Timer
 	var target_date = new Date("October 28, 2013").getTime();
 	var days, hours, minutes, seconds;
