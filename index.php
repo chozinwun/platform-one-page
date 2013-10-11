@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<section class="header">
-			<h1 class="logo"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></h1>
+			<h1 class="logo"><a href="<?php echo get_site_url(1); ?>?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></a></h1>
 			<ul class="nav">
 				<li><a href="">Home</a></li>
 				<li><a href="#theplatform">The Platform</a></li>
