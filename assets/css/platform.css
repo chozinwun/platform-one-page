@@ -60,8 +60,7 @@ h2 {
 
 h3 { 
 	font-family: 'Source Sans Bold', sans serif;
-	font-size: 32px;
-	letter-spacing: -2px; }
+	font-size: 32px; }
 
 h3.center {
 	text-align: center; }
@@ -151,7 +150,9 @@ section .container h2 {
 .slide {
 	text-align: center;
 	display: block;
-	width: 100%; }
+	width: 100%;
+	height: 350px;
+	overflow: hidden; }
 
 .center {
 	text-align: center; }
@@ -249,13 +250,20 @@ section.intro {
 #scholarships {
 	background: url(../img/darker-shadow.png);
 	color: yellow;
-	border-top: 1px solid yellow;
+	border-top: 1px solid orangered;
 	border-bottom: 1px solid yellow; }
 
 #scholarships h2 {
 	color: yellow; }
 
-#auditions, #faqs {
+
+#theplatform {
+	background: url(../img/cream_pixels.png); }
+
+#auditions {
+	background: url(../img/orange-shadow.png); }
+
+#faqs {
 	background: url(../img/darker-shadow.png); }
 
 #footer {
@@ -271,12 +279,44 @@ section.intro {
 	h2 {
 		text-align: left; }
 
+	section.intro {
+		height: auto; }
+
+	.countdown {
+		background: orangered;
+		position: relative; }
+
+	.countdown .timer {
+		background: url(../img/dark-shadow.png);
+		padding: 10px 0; }
+
+	.countdown .message {
+		font-size: 22px; }
+
+	.countdown .timer li {
+		background: transparent;
+		margin: 0 10px;
+		padding: 0;
+		width: inherit; }
+
+	.callout {
+		font-size: 28px; }
+
 	section .container {
 		width: 100%;
 		padding: 0 15px; }
 
 	section .container .cols { 
 		display: block; }
+
+	section .container .col {
+		margin-bottom: 40px; }
+
+	section .container .col:first-child {
+		margin-right: 0; }
+
+	section .container .col:last-child {
+		margin-bottom: 0; }
 
 	section .container p {
 		text-align: left; }
