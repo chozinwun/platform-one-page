@@ -286,6 +286,9 @@ section.intro {
 	section.intro {
 		height: auto; }
 
+	.slide {
+		height: auto; }
+
 	.countdown {
 		background: orangered;
 		position: relative; }

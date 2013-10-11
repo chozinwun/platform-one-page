@@ -65,12 +65,12 @@
 				<div class="cols">
 					<div class="col">
 						<h3>1. Online</h3>
-						<p>Sunday Oct. 27th at midnight - Friday Nov. 1st at midnight, upload your 60 second YouTube video.</p>
+						<p>Sunday, Oct. 27th at midnight - Friday, Nov. 1st at midnight, upload your 60 second YouTube video.</p>
 						<p class="disclaimer">Registration Required at time of submission.</p>
 					</div>
 					<div class="col">
 						<h3>2. In Person</h3>
-						<p>Saturday November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
+						<p>Saturday, November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
 						<p class="disclaimer">Registration Required. Must be completed by Thursday November 14th.</p>
 					</div>
 				</div>
@@ -88,7 +88,7 @@
 					<div class="col">
 						<h2 class="lightblue">FAQs</h2>
 						<p>Q: Can I register the day of the audition in person?<br />A: No. Registration for in person auditions must be completed by Thursday November 14th.</p>
-						<p>Q: Can I upload more that one video for online auditions?<br />A: No. Only one video per particpant will be acceppted.</p>
+						<p>Q: Can I upload more that one video for online auditions?<br />A: No. Only one video per particpant will be accepted.</p>
 						<p>Q: Are group auditions allowed?<br />A: Yes. Groups may have no more than 6 participants.</p>
 						<p>Q: Is there an age requirement for auditioning?<br />A: No. Participants ages 17 and younger must be accompanied by a parent/legal guardian.<p>
 						<p>Q: Is there a GPA requirement to win a scholarship?<br />A: No.</p>
