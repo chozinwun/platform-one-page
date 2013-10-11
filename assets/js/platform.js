@@ -4,6 +4,11 @@
 		
 		if ( $('.mobile-nav .menu').is(':visible') == false ) $('.mobile-nav .menu').show();
 		else $('.mobile-nav .menu').hide();
+
+	});
+
+	$('.mobile-nav .menu a').on( 'click', function(e){
+		$('.mobile-nav .menu').hide();
 	});
 
 	// Countdown Timer
