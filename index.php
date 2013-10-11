@@ -58,7 +58,7 @@
 				<h2>What is The Platform?</h2>
 				<div class="cols">
 					<div class="col">
-						<iframe width="420" height="315" src="//www.youtube.com/embed/UdRhmzN1rnE?rel=0" frameborder="0" allowfullscreen></iframe>
+						<iframe src="//www.youtube.com/embed/UdRhmzN1rnE?rel=0" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="col">
 						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
