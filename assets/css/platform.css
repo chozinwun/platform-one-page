@@ -311,10 +311,22 @@ section.intro {
 		width: 150px; }
 
 	h2 {
-		text-align: left; }
+		text-align: left;
+		width: 100%;
+		display: block; }
+
+	h2 small { 
+		display: block; }
 
 	section.intro {
 		height: auto; }
+
+	.social {
+		position: relative;
+		top: 0; }
+
+	.social .desktop {
+		float: right; }
 
 	.slide {
 		height: auto; }

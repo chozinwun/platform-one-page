@@ -39,7 +39,7 @@
 
 				<div class="desktop">
 					<div class="fb-like" data-href="http://campusunity.com/theplatform" data-width="The pixel width of the plugin" data-colorscheme="light" data-layout="box_count" data-action="like" data-show-faces="false" data-send="false"></div>
-					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://campusunity.com/theplatform" data-counturl="http://campusunity.com/theplatform" data-lang="en" data-count="vertical">Tweet</a>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://campusunity.com" data-counturl="http://campusunity.com" data-lang="en" data-count="vertical">Tweet</a>
 				</div>
 				<div class="mobile">
 					
