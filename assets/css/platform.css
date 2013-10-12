@@ -119,7 +119,8 @@ section .container .col {
 	-webkit-flex: 1;          /* Chrome */
 	-ms-flex: 1;
 	flex: 1;
-	display: block; }
+	display: block;
+	width: 100%; }
 
 section .container .col:first-child {
 	margin-right: 50px; }
@@ -168,7 +169,7 @@ section p.callout {
 	margin-bottom: 40px;
 	display: block;
 	text-align: center;
-	line-height: 30px; }
+	line-height: 50px; }
 
 /** Header **/
 section.header {
