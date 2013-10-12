@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<title>The Platform - $2000+ in Cash Prizes. One Stage. | The Summit College Ministry</title>
 		<meta property="og:title" content="The Platform - $2000+ in Cash Prizes. One Stage."/>
 		<meta property="og:url" content="http://campusunity.com/theplatform"/>
 		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
