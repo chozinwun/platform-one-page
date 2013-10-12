@@ -88,6 +88,7 @@ h2 small {
 	font-size: 16px; }
 
 section {
+	position: relative;
 	background: transparent;
 	display: block;
 	width: 100%;
@@ -204,6 +205,11 @@ h1.logo img {
 .nav li a:hover, .mobile-nav li a:hover {
 	background: orangered; }
 
+.social {
+	position: absolute;
+	right: 20px;
+	top: 10px;
+}
 
 /** Intro **/
 section.intro {
@@ -280,6 +286,9 @@ section.intro {
 	color: white; }
 
 @media (max-width: 768px) {
+
+	body {
+		padding-top: 70px; }
 
 	.nav {
 		display: none; }

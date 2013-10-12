@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<meta property="og:title" content="The Platform - $2000+ in Cash Prizes. One Stage."/>
+		<meta property="og:url" content="http://campusunity.com/theplatform"/>
+		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
+
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 		<link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_url'); ?>/assets/css/platform.css" />
 
@@ -29,6 +33,26 @@
 			</ul>
 		</section>
 		<section class="intro">
+			<div class="social">
+				<!--<a href="https://www.facebook.com/sharer/sharer.php?u=http://campusunity.com/theplatform" target="_blank">Share on Facebook</a>-->
+
+				<div class="desktop">
+					<div class="fb-like" data-href="http://campusunity.com/theplatform" data-width="The pixel width of the plugin" data-colorscheme="light" data-layout="box_count" data-action="like" data-show-faces="false" data-send="false"></div>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://campusunity.com/theplatform" data-counturl="http://campusunity.com/theplatform" data-lang="en" data-count="vertical">Tweet</a>
+				</div>
+				<div class="mobile">
+					
+				</div>
+				<div id="fb-root"></div>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=605771132797921";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+			</div>
 			<div class="slide">
 				<img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" height="250px" />
 				<p class="callout">$2000+ in Prizes. One Stage.</p>
