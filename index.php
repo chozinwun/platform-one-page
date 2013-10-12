@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>The Platform - $2000+ in Cash Prizes. One Stage. | The Summit College Ministry</title>
+		<title>The Platform - $2000+ in Cash Prizes. One Stage. #ThePlatform</title>
 		<meta property="og:title" content="The Platform - $2000+ in Cash Prizes. One Stage."/>
 		<meta property="og:url" content="http://campusunity.com/theplatform"/>
 		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
-
+		<meta property="fb:admins" content="25003118" />
+		
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 		<link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_url'); ?>/assets/css/platform.css" />
 
@@ -82,14 +83,15 @@
 		</section>
 		<section id="theplatform" class="white">
 			<div class="container">
-				<h2>What is The Platform?</h2>
+				<h2>An Inspirational Talent Showcase</h2>
+				<p class="callout">Saturday November 23rd @ 6PM - Greenbsoro, NC</p>
 				<div class="cols">
 					<div class="col">
 						<iframe width="100%" height="315" src="//www.youtube.com/embed/UdRhmzN1rnE?rel=0" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="col">
 						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
-						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
+						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with no age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
 						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
 						<p>Online auditions begin October 27th, 2013.</p>
 					</div>
