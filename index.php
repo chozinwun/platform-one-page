@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>The Platform - $2000+ in Cash Prizes. One Stage. #ThePlatform</title>
-		<meta property="og:title" content="The Platform - $2000+ in Cash Prizes. One Stage."/>
-		<meta property="og:url" content="http://campusunity.com/theplatform"/>
+		<title>The Platform Talent Competition - $2000+ in Cash Prizes. One Stage. #ThePlatformNC</title>
+		<meta property="og:title" content="The Platform Talent Competition - $2000+ in Cash Prizes. One Stage."/>
+		<meta property="og:url" content="http://theplatformnc.com"/>
 		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
 		<meta property="fb:admins" content="25003118" />
 
@@ -14,9 +14,9 @@
 	</head>
 	<body>
 		<section class="header">
-			<h1 class="logo"><a href="<?php echo get_site_url(1); ?>?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></a></h1>
+			<h1 class="logo"><a href="http://campusunity.com?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></a></h1>
 			<ul class="nav">
-				<li><a href="">Home</a></li>
+				<li><a href="#">Home</a></li>
 				<li><a href="#theplatform">The Platform</a></li>
 				<li><a href="#auditions">Auditions</a></li>
 				<li><a href="#scholarships">Scholarships</a></li>
@@ -39,8 +39,8 @@
 				<!--<a href="https://www.facebook.com/sharer/sharer.php?u=http://campusunity.com/theplatform" target="_blank">Share on Facebook</a>-->
 
 				<div class="desktop">
-					<div class="fb-like" data-href="http://campusunity.com/theplatform" data-width="The pixel width of the plugin" data-colorscheme="light" data-layout="box_count" data-action="like" data-show-faces="false" data-send="false"></div>
-					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://campusunity.com" data-counturl="http://campusunity.com" data-lang="en" data-count="vertical">Tweet</a>
+					<div class="fb-like" data-href="http://theplatformnc.com" data-width="The pixel width of the plugin" data-colorscheme="light" data-layout="box_count" data-action="like" data-show-faces="false" data-send="true"></div>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://theplatformnc.com" data-counturl="http://theplatformnc.com" data-lang="en" data-count="vertical">Tweet</a>
 				</div>
 				<div class="mobile">
 					
