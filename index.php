@@ -1,12 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<title>The Platform - $2000+ in Cash Prizes. One Stage. #ThePlatform</title>
+		<meta property="og:title" content="The Platform - $2000+ in Cash Prizes. One Stage."/>
+		<meta property="og:url" content="http://campusunity.com/theplatform"/>
+		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
+		<meta property="fb:admins" content="25003118" />
+
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-		<link rel="stylesheet" type="text/css" href="assets/css/platform.css" />
+		<link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_url'); ?>/assets/css/platform.css" />
+
+		<?php wp_head(); ?>
 	</head>
 	<body>
 		<section class="header">
-			<h1 class="logo"><img src="assets/img/summit-web-horiz-white.png"></h1>
+			<h1 class="logo"><a href="<?php echo get_site_url(1); ?>?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></a></h1>
 			<ul class="nav">
 				<li><a href="">Home</a></li>
 				<li><a href="#theplatform">The Platform</a></li>
@@ -27,8 +35,28 @@
 			</ul>
 		</section>
 		<section class="intro">
+			<div class="social">
+				<!--<a href="https://www.facebook.com/sharer/sharer.php?u=http://campusunity.com/theplatform" target="_blank">Share on Facebook</a>-->
+
+				<div class="desktop">
+					<div class="fb-like" data-href="http://campusunity.com/theplatform" data-width="The pixel width of the plugin" data-colorscheme="light" data-layout="box_count" data-action="like" data-show-faces="false" data-send="false"></div>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://campusunity.com" data-counturl="http://campusunity.com" data-lang="en" data-count="vertical">Tweet</a>
+				</div>
+				<div class="mobile">
+					
+				</div>
+				<div id="fb-root"></div>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=605771132797921";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+			</div>
 			<div class="slide">
-				<img src="assets/img/the-platform-logo.png" height="250px" />
+				<img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" height="250px" />
 				<p class="callout">$2000+ in Prizes. One Stage.</p>
 			</div>
 			<div class="countdown">
@@ -55,14 +83,15 @@
 		</section>
 		<section id="theplatform" class="white">
 			<div class="container">
-				<h2>What is The Platform?</h2>
+				<h2>An Inspirational Talent Showcase</h2>
+				<p class="callout">Saturday November 23rd @ 6PM - Greenbsoro, NC</p>
 				<div class="cols">
 					<div class="col">
 						<iframe width="100%" height="315" src="//www.youtube.com/embed/UdRhmzN1rnE?rel=0" frameborder="0" allowfullscreen></iframe>
 					</div>
 					<div class="col">
 						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
-						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
+						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with no age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
 						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
 						<p>Online auditions begin October 27th, 2013.</p>
 					</div>
@@ -113,7 +142,22 @@
 			</div>
 		</section>
 
-		<script type="text/javascript" src="assets/js/jquery-1.10.2.min.js"></script>
-		<script type="text/javascript" src="assets/js/platform.js"></script>
+		<script type="text/javascript" src="<?php echo get_bloginfo('template_url'); ?>/assets/js/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="<?php echo get_bloginfo('template_url'); ?>/assets/js/platform.js"></script>
 	</body>
 </html>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26588142-4']);
+  _gaq.push(['_setDomainName', 'campusunity.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
