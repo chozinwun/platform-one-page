@@ -3,6 +3,7 @@
 	<head>
 		<title>The Platform Talent Competition - $2000+ in Cash Prizes. One Stage. #ThePlatformNC</title>
 		<meta property="og:title" content="The Platform Talent Competition - $2000+ in Cash Prizes. One Stage."/>
+		<meta property="og:type" content="website"/>
 		<meta property="og:url" content="http://theplatformnc.com"/>
 		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
 		<meta property="fb:admins" content="25003118" />
