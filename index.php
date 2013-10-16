@@ -6,6 +6,7 @@
 		<meta property="og:type" content="website"/>
 		<meta property="og:url" content="http://theplatformnc.com"/>
 		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
+		<meta property="og:description" content="THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize."/>
 		<meta property="fb:admins" content="25003118" />
 
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
