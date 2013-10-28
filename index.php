@@ -95,7 +95,7 @@
 						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
 						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with no age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
 						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
-						<p>Online auditions begin October 27th, 2013.</p>
+						<p>Online auditions begin October 28th, 2013.</p>
 					</div>
 				</div>
 			</div>
@@ -106,13 +106,13 @@
 				<div class="cols">
 					<div class="col">
 						<h3>1. Online</h3>
-						<p>Sunday, Oct. 27th at midnight - Friday, Nov. 1st at midnight, upload your 60 second YouTube video.</p>
+						<p>Monday, Oct. 28th at Midnight - Wednesday, Oct. 30th at Midnight, upload your 60 second YouTube video.</p>
 						<p class="disclaimer">Registration Required at time of submission.</p>
 					</div>
 					<div class="col">
 						<h3>2. In Person</h3>
 						<p>Saturday, November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
-						<p class="disclaimer">Registration Required. Must be completed by Thursday November 14th.</p>
+						<p class="disclaimer">Registration Required. Must be completed by Thursday, November 14th.</p>
 					</div>
 				</div>
 			</div>
@@ -120,7 +120,7 @@
 		<section id="scholarships" class="white">
 			<div class="container">
 				<h2>Scholarships</h2>
-				<p>A portion of the proceeds from The Platform will go towards scholarships for NC students that are currently enrolled in college. Application for scholarship will be available on October 27th at midnight.</p>
+				<p>A portion of the proceeds from The Platform will go towards scholarships for NC students that are currently enrolled in college. Application for scholarship will be available on October 28th at Midnight.</p>
 			</div>
 		</section>
 		<section id="faqs">
