@@ -8,25 +8,67 @@
 	</head>
 	<body>
 		<section class="header">
-			<h1 class="logo"><a href="<?php echo get_site_url(1); ?>?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png"></a></h1>
+			<h1 class="logo"><a href="<?php echo get_site_url(1); ?>?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></a></h1>
 			<ul class="nav">
-				<li><a href="<?php echo site_url(); ?>">Home</a></li>
+				<li><a href="">Home</a></li>
+				<li><a href="#theplatform">The Platform</a></li>
+				<li><a href="#auditions">Auditions</a></li>
+				<li><a href="#scholarships">Scholarships</a></li>
+				<li><a href="#faqs">FAQs</a></li>
 				<!--<li><a href="#sponsors">Sponsors</a></li>-->
 			</ul>
 			<ul class="mobile-nav">
 				<li><a class="show-mobile-menu">Menu</a></li>
 				<ul class="menu">
 					<li><a href="">Home</a></li>
+					<li><a href="#theplatform">The Platform</a></li>
+					<li><a href="#auditions">Auditions</a></li>
+					<li><a href="#scholarships">Scholarships</a></li>
+					<li><a href="#faqs">FAQs</a></li>
 				</ul>
 			</ul>
 		</section>
-		
+		<section class="intro">
+			<div class="slide">
+				<img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" height="250px" />
+				<p class="callout">$2000+ in Prizes. One Stage.</p>
+			</div>
+			<div class="countdown">
+				<span class="message">Online Auditions begin in</span>
+				<ul class="timer">
+					<li>
+						<span class="days time">0</span>
+						<span>Days</span>
+					</li>
+					<li>
+						<span class="hours time">0</span>
+						<span>Hours</span>
+					</li>
+					<li>
+						<span class="minutes time">0</span>
+						<span>Minutes</span>
+					</li>
+					<li>
+						<span class="seconds time">0</span>
+						<span>Seconds</span>
+					</li>
+				</ul>
+			</div>
+		</section>
 		<section id="theplatform" class="white">
 			<div class="container">
-				<?php if (have_posts()) : while (have_posts()) : the_post();?>
-					<h2><?php the_title() ?></h2>
-					<?php the_content(); ?>
-				<?php endwhile; endif; ?>
+				<h2>What is The Platform?</h2>
+				<div class="cols">
+					<div class="col">
+						<iframe width="100%" height="315" src="//www.youtube.com/embed/UdRhmzN1rnE?rel=0" frameborder="0" allowfullscreen></iframe>
+					</div>
+					<div class="col">
+						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
+						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
+						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
+						<p>Online auditions begin October 27th, 2013.</p>
+					</div>
+				</div>
 			</div>
 		</section>
 		<section id="auditions">
