@@ -43,11 +43,13 @@
 						<h3>1. Online</h3>
 						<p>Monday, Oct. 28th at Midnight - Wednesday, Oct. 30th at Midnight, upload your 60 second YouTube video.</p>
 						<p class="disclaimer">Registration Required at time of submission.</p>
+						<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
 					</div>
 					<div class="col">
 						<h3>2. In Person</h3>
 						<p>Saturday, November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
 						<p class="disclaimer">Registration Required. Must be completed by Thursday, November 14th.</p>
+						<p><a class="blue-bg" href="/contests/2013-live-auditions">Register Now</a></p>
 					</div>
 				</div>
 			</div>
@@ -56,6 +58,7 @@
 			<div class="container">
 				<h2>Scholarships</h2>
 				<p>A portion of the proceeds from The Platform will go towards scholarships for NC students that are currently enrolled in college. Application for scholarship will be available on October 28th at Midnight.</p>
+				<p><a class="green-bg" href="/contests/scholarship-giveaway">Complete Entry</a></p>
 			</div>
 		</section>
 		<section id="faqs">
