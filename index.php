@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<title>The Platform Talent Competition - $2000+ in Cash Prizes. One Stage. #ThePlatformNC</title>
+		<meta property="og:title" content="The Platform Talent Competition - $2000+ in Cash Prizes. One Stage."/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:url" content="http://theplatformnc.com"/>
+		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
+		<meta property="og:description" content="THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize."/>
+		<meta property="fb:admins" content="25003118" />
+
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 		<link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_url'); ?>/assets/css/platform.css" />
 
@@ -20,14 +28,12 @@
 				</ul>
 			</ul>
 		</section>
-		
 		<section id="theplatform" class="white">
 			<div class="container">
 				<?php if (have_posts()) : while (have_posts()) : the_post();?>
 					<h2><?php the_title() ?></h2>
 					<?php the_content(); ?>
 				<?php endwhile; endif; ?>
-			</div>
 		</section>
 		<section id="auditions">
 			<div class="container">
@@ -35,13 +41,13 @@
 				<div class="cols">
 					<div class="col">
 						<h3>1. Online</h3>
-						<p>Sunday, Oct. 27th at midnight - Friday, Nov. 1st at midnight, upload your 60 second YouTube video.</p>
+						<p>Monday, Oct. 28th at Midnight - Wednesday, Oct. 30th at Midnight, upload your 60 second YouTube video.</p>
 						<p class="disclaimer">Registration Required at time of submission.</p>
 					</div>
 					<div class="col">
 						<h3>2. In Person</h3>
 						<p>Saturday, November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
-						<p class="disclaimer">Registration Required. Must be completed by Thursday November 14th.</p>
+						<p class="disclaimer">Registration Required. Must be completed by Thursday, November 14th.</p>
 					</div>
 				</div>
 			</div>
@@ -49,7 +55,7 @@
 		<section id="scholarships" class="white">
 			<div class="container">
 				<h2>Scholarships</h2>
-				<p>A portion of the proceeds from The Platform will go towards scholarships for NC students that are currently enrolled in college. Application for scholarship will be available on October 27th at midnight.</p>
+				<p>A portion of the proceeds from The Platform will go towards scholarships for NC students that are currently enrolled in college. Application for scholarship will be available on October 28th at Midnight.</p>
 			</div>
 		</section>
 		<section id="faqs">
@@ -78,17 +84,13 @@
 	</body>
 </html>
 
-<script type="text/javascript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26588142-4']);
-  _gaq.push(['_setDomainName', 'campusunity.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-26588142-6', 'theplatformnc.com');
+  ga('send', 'pageview');
 
 </script>

@@ -12,7 +12,7 @@
 	});
 
 	// Countdown Timer
-	var target_date = new Date("October 28, 2013").getTime();
+	var target_date = new Date("October 29, 2013").getTime();
 	var days, hours, minutes, seconds;
 	var countdown = $('.countdown');
 
