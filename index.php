@@ -41,7 +41,7 @@
 				<div class="cols">
 					<div class="col">
 						<h3>1. Online</h3>
-						<p>Monday, Oct. 28th at Midnight - Wednesday, Oct. 30th at Midnight, upload your 60 second YouTube video.</p>
+						<p>Wednesday, Oct. 29th - Friday, Nov. 1st at Midnight, upload your 60 second YouTube video.</p>
 						<p class="disclaimer">Registration Required at time of submission.</p>
 						<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
 					</div>
