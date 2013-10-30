@@ -84,6 +84,9 @@
 
 		<script type="text/javascript" src="<?php echo get_bloginfo('template_url'); ?>/assets/js/jquery-1.10.2.min.js"></script>
 		<script type="text/javascript" src="<?php echo get_bloginfo('template_url'); ?>/assets/js/platform.js"></script>
+		<script type="text/javascript" src="<?php echo plugins_url() . '/mdb-contests/assets/js/mdb-contest.js' ?>"></script>
+		
+		<?php wp_footer(); ?> 
 	</body>
 </html>
 
