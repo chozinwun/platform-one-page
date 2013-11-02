@@ -34,7 +34,7 @@
 				<p class="callout">$2000+ in Prizes. One Stage.</p>
 			</div>
 			<div class="countdown">
-				<span class="message">In Person Auditions` begin in</span>
+				<span class="message">In Person Auditions begin in</span>
 				<ul class="timer">
 					<li>
 						<span class="days time">0</span>
