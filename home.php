@@ -34,7 +34,7 @@
 				<p class="callout">$2000+ in Prizes. One Stage.</p>
 			</div>
 			<div class="countdown">
-				<span class="message">In Person <a href="#auditions">Auditions</a> begin in</span>
+				<span class="message">In Person Auditions` begin in</span>
 				<ul class="timer">
 					<li>
 						<span class="days time">0</span>
@@ -78,8 +78,7 @@
 					<div class="col">
 						<h3>1. Online</h3>
 						<p>Wednesday, Oct. 29th - Friday, Nov. 1st at Midnight, upload your 60 second YouTube video.</p>
-						<p class="disclaimer">Registration Required at time of submission.</p>
-						<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
+						<p>Online auditions are closed.</p>
 					</div>
 					<div class="col">
 						<h3>2. In Person</h3>

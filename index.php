@@ -42,8 +42,7 @@
 					<div class="col">
 						<h3>1. Online</h3>
 						<p>Wednesday, Oct. 29th - Friday, Nov. 1st at Midnight, upload your 60 second YouTube video.</p>
-						<p class="disclaimer">Registration Required at time of submission.</p>
-						<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
+						<p>Online auditions are closed.</p>
 					</div>
 					<div class="col">
 						<h3>2. In Person</h3>
