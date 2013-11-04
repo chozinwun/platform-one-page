@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<title>The Platform Talent Competition - $2000+ in Cash Prizes. One Stage. #ThePlatformNC</title>
+		<meta property="og:title" content="The Platform Talent Competition - $2000+ in Cash Prizes. One Stage."/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:url" content="http://theplatformnc.com"/>
+		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
+		<meta property="og:description" content="THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize."/>
+		<meta property="fb:admins" content="25003118" />
+		<meta name="google-site-verification" content="khiNg2eKOUUJ_SvzosgyQ5D4aa66O0KldOJkyXOIsj4" />
+		
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
 		<link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_url'); ?>/assets/css/platform.css" />
 
@@ -78,7 +87,8 @@
 					<div class="col">
 						<h3>1. Online</h3>
 						<p>Wednesday, Oct. 29th - Friday, Nov. 1st at Midnight, upload your 60 second YouTube video.</p>
-						<p>Online auditions are closed.</p>
+						<p class="disclaimer">Registration Required at time of submission.</p>
+            			<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
 					</div>
 					<div class="col">
 						<h3>2. In Person</h3>
