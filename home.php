@@ -17,7 +17,8 @@
 	</head>
 	<body>
 		<section class="header">
-			<h1 class="logo"><a href="<?php echo get_site_url(1); ?>?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></a></h1>
+			<h1 class="logo"><a href="<?php echo get_site_url(1); ?>?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png"></a></h1>
+			<!--<h1 class="logo"><a href="<?php echo get_site_url(1); ?>?show_home=1"><img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/summit-web-horiz-white.png"></a></h1>-->
 			<ul class="nav">
 				<li><a href="">Home</a></li>
 				<li><a href="#theplatform">The Platform</a></li>
@@ -41,8 +42,9 @@
 			<div class="slide">
 				<img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" height="250px" />
 				<p class="callout">$2000+ in Prizes. One Stage.</p>
+				<p class="callout">Coming March 2014</p>
 			</div>
-			<div class="countdown">
+			<!--<div class="countdown">
 				<span class="message">In Person Auditions begin in</span>
 				<ul class="timer">
 					<li>
@@ -62,20 +64,20 @@
 						<span>Seconds</span>
 					</li>
 				</ul>
-			</div>
+			</div>-->
 		</section>
 		<section id="theplatform" class="white">
 			<div class="container">
 				<h2>What is The Platform?</h2>
 				<div class="cols">
-					<div class="col">
+					<!--<div class="col">
 						<iframe width="100%" height="315" src="//www.youtube.com/embed/UdRhmzN1rnE?rel=0" frameborder="0" allowfullscreen></iframe>
-					</div>
+					</div>-->
 					<div class="col">
-						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
+						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent competition! In March 2014, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
 						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
 						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
-						<p>In person auditions are on November 16th, 2013.</p>
+						<p>Online auditions are open now.</p>
 					</div>
 				</div>
 			</div>
@@ -86,16 +88,16 @@
 				<div class="cols">
 					<div class="col">
 						<h3>1. Online</h3>
-						<p>Wednesday, Oct. 29th - Friday, Nov. 1st at Midnight, upload your 60 second YouTube video.</p>
+						<p>Beginning Wednesday, Oct. 29th, upload your 60 second YouTube video.</p>
 						<p class="disclaimer">Registration Required at time of submission.</p>
             			<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
 					</div>
-					<div class="col">
+					<!--<div class="col">
 						<h3>2. In Person</h3>
 						<p>Saturday, November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
 						<p class="disclaimer">Registration Required. Must be completed by Thursday, November 14th.</p>
 						<p><a class="blue-bg" href="/contests/2013-live-auditions">Register Now</a></p>
-					</div>
+					</div>-->
 				</div>
 			</div>
 		</section>
@@ -111,7 +113,7 @@
 				<div class="cols">
 					<div class="col">
 						<h2 class="lightblue">FAQs</h2>
-						<p>Q: Can I register the day of the audition in person?<br />A: No. Registration for in person auditions must be completed by Thursday November 14th.</p>
+						<!--<p>Q: Can I register the day of the audition in person?<br />A: No. Registration for in person auditions must be completed by Thursday November 14th.</p>-->
 						<p>Q: Can I upload more that one video for online auditions?<br />A: No. Only one video per particpant will be accepted.</p>
 						<p>Q: Are group auditions allowed?<br />A: Yes. Groups may have no more than 6 participants.</p>
 						<p>Q: Is there an age requirement for auditioning?<br />A: No. Participants ages 17 and younger must be accompanied by a parent/legal guardian.<p>

@@ -42,16 +42,16 @@
 				<div class="cols">
 					<div class="col">
 						<h3>1. Online</h3>
-						<p>Wednesday, Oct. 29th - Friday, Nov. 1st at Midnight, upload your 60 second YouTube video.</p>
+						<p>Beginning Wednesday, Oct. 29th, upload your 60 second YouTube video.</p>
 						<p class="disclaimer">Registration Required at time of submission.</p>
             			<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
 					</div>
-					<div class="col">
+					<!--<div class="col">
 						<h3>2. In Person</h3>
 						<p>Saturday, November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
 						<p class="disclaimer">Registration Required. Must be completed by Thursday, November 14th.</p>
 						<p><a class="blue-bg" href="/contests/2013-live-auditions">Register Now</a></p>
-					</div>
+					</div>-->
 				</div>
 			</div>
 		</section>
@@ -67,7 +67,7 @@
 				<div class="cols">
 					<div class="col">
 						<h2 class="lightblue">FAQs</h2>
-						<p>Q: Can I register the day of the audition in person?<br />A: No. Registration for in person auditions must be completed by Thursday November 14th.</p>
+						<!--<p>Q: Can I register the day of the audition in person?<br />A: No. Registration for in person auditions must be completed by Thursday November 14th.</p>-->
 						<p>Q: Can I upload more that one video for online auditions?<br />A: No. Only one video per particpant will be accepted.</p>
 						<p>Q: Are group auditions allowed?<br />A: Yes. Groups may have no more than 6 participants.</p>
 						<p>Q: Is there an age requirement for auditioning?<br />A: No. Participants ages 17 and younger must be accompanied by a parent/legal guardian.<p>
@@ -85,19 +85,20 @@
 
 		<script type="text/javascript" src="<?php echo get_bloginfo('template_url'); ?>/assets/js/jquery-1.10.2.min.js"></script>
 		<script type="text/javascript" src="<?php echo get_bloginfo('template_url'); ?>/assets/js/platform.js"></script>
-		<script type="text/javascript" src="<?php echo plugins_url() . '/mdb-contests/assets/js/mdb-contest.js' ?>"></script>
-		
-		<?php wp_footer(); ?> 
 	</body>
 </html>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<script type="text/javascript">
 
-  ga('create', 'UA-26588142-6', 'theplatformnc.com');
-  ga('send', 'pageview');
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26588142-4']);
+  _gaq.push(['_setDomainName', 'campusunity.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
 </script>
