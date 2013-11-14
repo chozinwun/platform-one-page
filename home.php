@@ -42,7 +42,7 @@
 			<div class="slide">
 				<img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" height="250px" />
 				<p class="callout">$2000+ in Prizes. One Stage.</p>
-				<p class="callout">Coming March 2014</p>
+				<p class="callout">Coming Spring 2014</p>
 			</div>
 			<!--<div class="countdown">
 				<span class="message">In Person Auditions begin in</span>
@@ -74,7 +74,7 @@
 						<iframe width="100%" height="315" src="//www.youtube.com/embed/UdRhmzN1rnE?rel=0" frameborder="0" allowfullscreen></iframe>
 					</div>-->
 					<div class="col">
-						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent competition! In March 2014, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
+						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent competition! In Spring 2014, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
 						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
 						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
 						<p>Online auditions are open now.</p>
