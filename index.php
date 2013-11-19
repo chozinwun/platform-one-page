@@ -46,6 +46,12 @@
 						<p class="disclaimer">Registration Required at time of submission.</p>
             			<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
 					</div>
+					<div class="col">
+						<h3>2. In Person</h3>
+						<p>Coming January 2014 - February 2014</p>
+						<!--<p class="disclaimer">Registration Required. Must be completed by Thursday, November 14th.</p>
+						<p><a class="blue-bg" href="/contests/2013-live-auditions">Register Now</a></p>-->
+					</div>
 					<!--<div class="col">
 						<h3>2. In Person</h3>
 						<p>Saturday, November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>

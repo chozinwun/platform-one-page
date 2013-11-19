@@ -42,7 +42,7 @@
 			<div class="slide">
 				<img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" height="250px" />
 				<p class="callout">$2000+ in Prizes. One Stage.</p>
-				<p class="callout">Coming Spring 2014</p>
+				<p class="callout">Coming Spring 2014. Online auditions will continue to be accepted and The Platform Live audition tour will begin in January 2014.</p>
 			</div>
 			<!--<div class="countdown">
 				<span class="message">In Person Auditions begin in</span>
@@ -77,7 +77,18 @@
 						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent competition! In Spring 2014, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
 						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
 						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
-						<p>Online auditions are open now.</p>
+						<p>&nbsp;</p>
+						<h3>Why did the date change?</h3>
+						<p>While we realize that many of you are very eager to share your talents, we want to make sure that we are completely ready for you. We've heard your concerns. Many of you would like to audition in person but due to timing may not be able to travel. It's okay, really!</p>
+						<p>We're going to take some time to:</p>
+						<ul>
+							<li>Make sure everyone gets through the holidays</li>
+							<li>Give our sponsors more time to prepare</li>
+							<li>Give more students time to register for scholarships</li>
+							<li>Make our way to a city near you for in-person auditions</li>
+							<li>Raise the Grand Prize $$ amount</li>
+							<li>The Platform will take place Spring 2014. Online auditions will continue to be accepted and The Platform Live audition tour will begin in January 2014. Please join our mailing list to receive additional details if you're interested in auditioning.</li>
+						</ul>
 					</div>
 				</div>
 			</div>
@@ -92,12 +103,12 @@
 						<p class="disclaimer">Registration Required at time of submission.</p>
             			<p><a class="blue-bg" href="/contests/2013-online-auditions">Submit your entry</a></p>
 					</div>
-					<!--<div class="col">
+					<div class="col">
 						<h3>2. In Person</h3>
-						<p>Saturday, November 16th 8AM - 5PM at New Jerusalem Cathedral, Greensboro, NC. </p>
-						<p class="disclaimer">Registration Required. Must be completed by Thursday, November 14th.</p>
-						<p><a class="blue-bg" href="/contests/2013-live-auditions">Register Now</a></p>
-					</div>-->
+						<p>Coming January 2014 - February 2014</p>
+						<!--<p class="disclaimer">Registration Required. Must be completed by Thursday, November 14th.</p>
+						<p><a class="blue-bg" href="/contests/2013-live-auditions">Register Now</a></p>-->
+					</div>
 				</div>
 			</div>
 		</section>
