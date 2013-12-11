@@ -6,7 +6,7 @@
 		<meta property="og:type" content="website"/>
 		<meta property="og:url" content="http://theplatformnc.com"/>
 		<meta property="og:image" content="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" />
-		<meta property="og:description" content="THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On November 23rd, 15 finalists will compete in front of a live audience for a $1000 Cash Prize."/>
+		<meta property="og:description" content="THE PLATFORM is a regional (NC, VA, SC) inspirational talent showcase! On March 28, 2014, 15 finalists will compete in front of a live audience for a $1000 Cash Prize."/>
 		<meta property="fb:admins" content="25003118" />
 		<meta name="google-site-verification" content="khiNg2eKOUUJ_SvzosgyQ5D4aa66O0KldOJkyXOIsj4" />
 		
@@ -25,7 +25,7 @@
 				<li><a href="#auditions">Auditions</a></li>
 				<li><a href="#scholarships">Scholarships</a></li>
 				<li><a href="#faqs">FAQs</a></li>
-				<!--<li><a href="#sponsors">Sponsors</a></li>-->
+				<li><a href="sponsorship">Sponsors</a></li>
 			</ul>
 			<ul class="mobile-nav">
 				<li><a class="show-mobile-menu">Menu</a></li>
@@ -35,14 +35,15 @@
 					<li><a href="#auditions">Auditions</a></li>
 					<li><a href="#scholarships">Scholarships</a></li>
 					<li><a href="#faqs">FAQs</a></li>
+					<li><a href="sponsorship">Sponsors</a></li>
 				</ul>
 			</ul>
 		</section>
 		<section class="intro">
 			<div class="slide">
 				<img src="<?php echo get_bloginfo('template_url'); ?>/assets/img/the-platform-logo.png" height="250px" />
-				<p class="callout">$2000+ in Prizes. One Stage.</p>
-				<p class="callout">Coming Spring 2014. Online auditions will continue to be accepted and The Platform Live audition tour will begin in January 2014.</p>
+				<!-- <p class="callout">$2000+ in Prizes. One Stage.</p> -->
+				<p class="callout">On March 28, 2014, 15 finalists will compete at the historic Greensboro Carolina Theatre for a cash prize of $1,000.</p>
 			</div>
 			<!--<div class="countdown">
 				<span class="message">In Person Auditions begin in</span>
@@ -74,7 +75,8 @@
 						<iframe width="100%" height="315" src="//www.youtube.com/embed/UdRhmzN1rnE?rel=0" frameborder="0" allowfullscreen></iframe>
 					</div>-->
 					<div class="col">
-						<p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent competition! In Spring 2014, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
+						<p>The Platform is in search of the most inspirational singers, musicians, dancers and speakers on the East Coast. On March 28, 2014, 15 finalists will compete at the historic Greensboro Carolina Theatre for a cash prize of $1,000. After intense performances and moving melodies, the audience along with guest judges will decide who the most inspirational person is. The evening will conclude with a scholarship giveaway to area college students. </p>
+						<!-- <p>THE PLATFORM is a regional (NC, VA, SC) inspirational talent competition! In Spring 2014, 15 finalists will compete in front of a live audience for a $1000 Cash Prize.</p>
 						<p>This is YOUR opportunity to win big and inspire someone with your gift. The Platform is open to the general public with No age requirements! So if you sing, dance, act or play the spoons, this is YOUR chance!</p>
 						<p>No Talent? No Worries. College students! Enter to win thousands in scholarships!</p>
 						<p>&nbsp;</p>
@@ -88,7 +90,7 @@
 							<li>Make our way to a city near you for in-person auditions</li>
 							<li>Raise the Grand Prize $$ amount</li>
 							<li>The Platform will take place Spring 2014. Online auditions will continue to be accepted and The Platform Live audition tour will begin in January 2014. Please join our mailing list to receive additional details if you're interested in auditioning.</li>
-						</ul>
+						</ul> -->
 					</div>
 				</div>
 			</div>
