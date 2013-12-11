@@ -313,15 +313,20 @@ section.intro p.callout {
 	color: white; }
 
 /** FORM **/
+.ninja-forms-form li,
 .form.signup li {
 	display: block;
 	margin-bottom: 10px; }
 
+.ninja-forms-form label,
 .form.signup label {
 	font-weight: bold;
 	font-family: Helvetica Neue;
 	padding-bottom: 10px; }
 
+.ninja-forms-form input,
+.ninja-forms-form textarea,
+.ninja-forms-form select,
 .form.signup input, 
 .form.signup textarea,
 .form.signup select {
@@ -330,6 +335,7 @@ section.intro p.callout {
 	width: 100%;
 	outline: none; }
 
+.ninja-forms-form input[type="submit"],
 .form.signup #submit-button {
 	display: block;
 	background: black;
